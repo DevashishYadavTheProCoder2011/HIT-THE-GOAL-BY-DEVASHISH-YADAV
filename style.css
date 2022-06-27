@@ -1,0 +1,22 @@
+.body_background 
+{
+    background-position: center;
+    background-size:contain;
+	background:url("Grass.jpg");
+}
+#myCanvas
+{
+    border-width:10px;
+    border-style:ridge;
+	background-image: url("https://previews.123rf.com/images/praewpailin/praewpailin2101/praewpailin210100016/163474878-green-grass-texture-for-background-green-lawn-pattern-and-texture-background-close-up-.jpg");
+}
+
+
+#hd1{
+	
+	color: red;
+	background-color: black;
+	font-family: fantasy;
+	
+}
+
